@@ -1,12 +1,14 @@
 # computer_vision_with_tello_drone
 
+# Five Projects using Tello Drone
+
 ## Table of Contents
 1. <a href="#installations" >Installations</a>
-2. <a href="#project_1" >Project 1</a>
-3. <a href="#project_2" >Project 2</a>
-4. <a href="#project_3" >Project 3</a>
-5. <a href="#project_4" >Project 4</a>
-6. <a href="#project_5" >Project 5</a>
+2. <a href="#project_1" >Project 1: Face Tracking</a>
+3. <a href="#project_2" >Project 2: Body Tracking & Control</a>
+4. <a href="#project_3" >Project 3: Hand Geusture & Control</a>
+5. <a href="#project_4" >Project 4: Object Detection: Basics</a>
+6. <a href="#project_5" >Project 5: Object Detection: YOLO</a>
 
 
    
