@@ -1,11 +1,12 @@
 # computer_vision_with_tello_drone
 
 ## Table of Contents
-1. [Installations](#installations)
-2. [Project 1](#Face)
+1. <a href="installations" > :white_square_button: Installations</a>
+2. <a href="project_1" > :white_square_button: Project 1</a>
+
    
 ### Installations
-<div id="installation"></div>
+<div id="installations"></div>
  
 To install ImageAI, run the python installation instruction below in the command line:
 
@@ -25,3 +26,15 @@ To install ImageAI, run the python installation instruction below in the command
     
 
 ### Projects 1
+<div id="project_1"></div>
+<table>
+  <tr>
+    <td><h2> Image Classification</h2> </td>
+  </tr>
+  <tr>
+    <td><img src="data-images/1.jpg" >
+    <h4>ImageAI provides 4 different algorithms and model types to perform image prediction, trained on the ImageNet-1000 dataset. The 4 algorithms provided for image prediction include MobileNetV2, ResNet50, InceptionV3 and DenseNet121.
+    Click the link below to see the full sample codes, explanations and best practices guide.</h4>
+    <a href="imageai/Classification"> >>> Get Started</a>
+    </td>
+  </tr>
