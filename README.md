@@ -1,1 +1,1 @@
-# computer_vision_with_tello_dron
+# computer_vision_with_tello_drone
