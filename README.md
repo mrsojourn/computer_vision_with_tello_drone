@@ -1,8 +1,8 @@
 # computer_vision_with_tello_drone
 
 ## Table of Contents
-1. <a href="installations" >Installations</a>
-2. <a href="project_1" >Project 1</a>
+1. <a href="#installations" >Installations</a>
+2. <a href="#project_1" >Project 1</a>
 
    
 ### Installations
