@@ -32,7 +32,7 @@ To install ImageAI, run the python installation instruction below in the command
     <td><h2> Tello: Face Tracking</h2> </td>
   </tr>
   <tr>
-    <td><img src="data-images/1.jpg" >
+    <td><img src="/thumbnails/1.PNG" >
     <h4>Frace tracking demo video.</h4>
     <a href="https://youtu.be/nlfS8t8BqY8"> >>> Click Here</a>
     </td>
