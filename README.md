@@ -28,7 +28,7 @@ To install ImageAI, run the python installation instruction below in the command
     ```
     pip install -r requirements.txt
     ```
-    
+  - Run individual projects and ENJOY =)
 
 ### Projects 1
 <div id="project_1"></div>
@@ -53,7 +53,7 @@ To install ImageAI, run the python installation instruction below in the command
   <tr>
     <td><img src="utils/thumbnails/2.PNG" >
     <h4>Body Tracking & Control demo video.</h4>
-    <a href=""> >>> Click Here: YouTube link <<<</a>
+    <a href="https://youtu.be/8PK3BrQf54s"> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
 </table>
@@ -67,7 +67,7 @@ To install ImageAI, run the python installation instruction below in the command
   <tr>
     <td><img src="utils/thumbnails/3.PNG" >
     <h4>Hand gesture & control demo video.</h4>
-    <a href=""> >>> Click Here: YouTube link <<<</a>
+    <a href="https://youtu.be/cVeWmBykW4I"> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@ To install ImageAI, run the python installation instruction below in the command
   <tr>
     <td><img src="utils/thumbnails/4.PNG" >
     <h4>Object dections basics demo video.</h4>
-    <a href=""> >>> Click Here: YouTube link <<<</a>
+    <a href="https://youtu.be/iA-cvK-Xydo"> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ To install ImageAI, run the python installation instruction below in the command
   <tr>
     <td><img src="utils/thumbnails/5.PNG" >
     <h4>Objection detection YOLO demo video.</h4>
-    <a href=""> >>> Click Here: YouTube link <<<</a>
+    <a href="https://youtu.be/CYfCtVhx7qk"> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
 </table>
