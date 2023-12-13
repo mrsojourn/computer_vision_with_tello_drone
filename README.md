@@ -39,58 +39,63 @@ To install ImageAI, run the python installation instruction below in the command
   <tr>
     <td><img src="utils/thumbnails/1.PNG" >
     <h4>Frace tracking demo video.</h4>
-    <a href="https://youtu.be/nlfS8t8BqY8"> >>> Click Here: YouTube link</a>
+    <a href="https://youtu.be/nlfS8t8BqY8"> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
+</table>
 
 ### Projects 2
 <div id="project_2"></div>
 <table>
   <tr>
-    <td><h2> Tello: Face Tracking</h2> </td>
+    <td><h2> Tello: Body Tracking & Control</h2> </td>
   </tr>
   <tr>
     <td><img src="utils/thumbnails/2.PNG" >
-    <h4>Frace tracking demo video.</h4>
-    <a href=""> >>> Click Here: YouTube link</a>
+    <h4>Body Tracking & Control demo video.</h4>
+    <a href=""> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
+</table>
    
 ### Projects 3
 <div id="project_3"></div>
    <table>
   <tr>
-    <td><h2> Tello: Face Tracking</h2> </td>
+    <td><h2> Tello: Hand Gesture Control</h2> </td>
   </tr>
   <tr>
     <td><img src="utils/thumbnails/3.PNG" >
-    <h4>Frace tracking demo video.</h4>
-    <a href=""> >>> Click Here: YouTube link</a>
+    <h4>Hand gesture & control demo video.</h4>
+    <a href=""> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
+</table>
       
 ### Projects 4  
 <div id="project_4"></div>
       <table>
   <tr>
-    <td><h2> Tello: Face Tracking</h2> </td>
+    <td><h2> Tello: Objection Detection Basics</h2> </td>
   </tr>
   <tr>
     <td><img src="utils/thumbnails/4.PNG" >
-    <h4>Frace tracking demo video.</h4>
-    <a href=""> >>> Click Here: YouTube link</a>
+    <h4>Object dections basics demo video.</h4>
+    <a href=""> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
+</table>
          
 ### Projects 5
 <div id="project_5"></div>
 <table>
   <tr>
-    <td><h2> Tello: Face Tracking</h2> </td>
+    <td><h2> Tello: Object Detection: YOLO</h2> </td>
   </tr>
   <tr>
     <td><img src="utils/thumbnails/5.PNG" >
-    <h4>Frace tracking demo video.</h4>
-    <a href=""> >>> Click Here: YouTube link</a>
+    <h4>Objection detection YOLO demo video.</h4>
+    <a href=""> >>> Click Here: YouTube link <<<</a>
     </td>
   </tr>
+</table>
