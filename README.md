@@ -3,6 +3,11 @@
 ## Table of Contents
 1. <a href="#installations" >Installations</a>
 2. <a href="#project_1" >Project 1</a>
+3. <a href="#project_2" >Project 2</a>
+4. <a href="#project_3" >Project 3</a>
+5. <a href="#project_4" >Project 4</a>
+6. <a href="#project_5" >Project 5</a>
+
 
    
 ### Installations
@@ -32,8 +37,60 @@ To install ImageAI, run the python installation instruction below in the command
     <td><h2> Tello: Face Tracking</h2> </td>
   </tr>
   <tr>
-    <td><img src="/thumbnails/1.PNG" >
+    <td><img src="utils/thumbnails/1.PNG" >
     <h4>Frace tracking demo video.</h4>
-    <a href="https://youtu.be/nlfS8t8BqY8"> >>> Click Here</a>
+    <a href="https://youtu.be/nlfS8t8BqY8"> >>> Click Here: YouTube link</a>
+    </td>
+  </tr>
+
+### Projects 2
+<div id="project_2"></div>
+<table>
+  <tr>
+    <td><h2> Tello: Face Tracking</h2> </td>
+  </tr>
+  <tr>
+    <td><img src="utils/thumbnails/2.PNG" >
+    <h4>Frace tracking demo video.</h4>
+    <a href=""> >>> Click Here: YouTube link</a>
+    </td>
+  </tr>
+   
+### Projects 3
+<div id="project_3"></div>
+   <table>
+  <tr>
+    <td><h2> Tello: Face Tracking</h2> </td>
+  </tr>
+  <tr>
+    <td><img src="utils/thumbnails/3.PNG" >
+    <h4>Frace tracking demo video.</h4>
+    <a href=""> >>> Click Here: YouTube link</a>
+    </td>
+  </tr>
+      
+### Projects 4  
+<div id="project_4"></div>
+      <table>
+  <tr>
+    <td><h2> Tello: Face Tracking</h2> </td>
+  </tr>
+  <tr>
+    <td><img src="utils/thumbnails/4.PNG" >
+    <h4>Frace tracking demo video.</h4>
+    <a href=""> >>> Click Here: YouTube link</a>
+    </td>
+  </tr>
+         
+### Projects 5
+<div id="project_5"></div>
+<table>
+  <tr>
+    <td><h2> Tello: Face Tracking</h2> </td>
+  </tr>
+  <tr>
+    <td><img src="utils/thumbnails/5.PNG" >
+    <h4>Frace tracking demo video.</h4>
+    <a href=""> >>> Click Here: YouTube link</a>
     </td>
   </tr>
