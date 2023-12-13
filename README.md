@@ -1,6 +1,10 @@
 # computer_vision_with_tello_drone
 
-## Installation
+## Table of Contents
+1. [Installations](#installations)
+2. [Project 1](#Face)
+   
+### Installations
 <div id="installation"></div>
  
 To install ImageAI, run the python installation instruction below in the command line:
@@ -18,4 +22,6 @@ To install ImageAI, run the python installation instruction below in the command
     ```
     pip install -r requirements.txt
     ```
+    
 
+### Projects 1
