@@ -29,12 +29,11 @@ To install ImageAI, run the python installation instruction below in the command
 <div id="project_1"></div>
 <table>
   <tr>
-    <td><h2> Image Classification</h2> </td>
+    <td><h2> Tello: Face Tracking</h2> </td>
   </tr>
   <tr>
     <td><img src="data-images/1.jpg" >
-    <h4>ImageAI provides 4 different algorithms and model types to perform image prediction, trained on the ImageNet-1000 dataset. The 4 algorithms provided for image prediction include MobileNetV2, ResNet50, InceptionV3 and DenseNet121.
-    Click the link below to see the full sample codes, explanations and best practices guide.</h4>
-    <a href="imageai/Classification"> >>> Get Started</a>
+    <h4>Frace tracking demo video.</h4>
+    <a href="https://youtu.be/nlfS8t8BqY8"> >>> Click Here</a>
     </td>
   </tr>
